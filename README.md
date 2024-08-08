@@ -51,4 +51,4 @@ my-project/
 To get a local copy of the repository, clone it using:
 
 ```bash
-git clone https://github.com/yourusername/my-project.git
+git clone https://github.com/yashbhardwaj11/ChallengeApp.git
