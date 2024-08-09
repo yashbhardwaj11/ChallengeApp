@@ -1,5 +1,5 @@
 # Challenge App
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhardwaj11&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhardwaj11" /> </p>
 ## Overview
 
 The Challenge App allows users to create, view, update, and delete challenges. Each challenge includes the month and description. The application features a frontend built with React.js and a backend powered by Spring Boot, using an H2 database and JPA for persistence.
